@@ -1,0 +1,17 @@
+1. Interacao grafica -> tkinter 
+2. Processamento grafico-> python 
+3. Animacao  mundo virtual-> blender 
+
+hora de  atendimento: 
+3 feira 14-16
+
+teorica 50%  
+30 % teste-> 18 de maio 
+20 % interacao nas aulas teoricas
+pratica 50% 
+
+individual: 
+programacao tkinter 15%  
+programacao em python 15% 
+em grupo:
+programacao blender  20% -> 27 de maio 
